@@ -1,0 +1,18 @@
+.app-container{
+    display: flex;
+}
+.content{
+    width: 100%;
+}
+.card-body{
+    text-align: justify;
+    margin: 20px 50px;
+    padding: 0 0;
+}
+.hashtag{
+    margin: 0px 2px;
+}
+.reactions{
+    margin-bottom: 0px;
+    width: 100%;
+}
